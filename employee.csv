@@ -1,0 +1,6 @@
+"employee_id";"first_name";"last_name";"department_id";"hire_date"
+1;"Alice";"Johnson";1;"2021-01-10"
+2;"Bob";"Smith";2;"2020-05-23"
+3;"Charlie";"Lee";3;"2019-11-03"
+4;"Dana";"White";3;"2022-07-15"
+5;"Eve";"Davis";4;"2021-08-01"
